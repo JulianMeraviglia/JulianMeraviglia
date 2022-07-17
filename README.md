@@ -25,7 +25,7 @@ Know more about me at ...
 Soy Julian, Argentina ! 👋
 
 
-FullStack Developer estudie 
+FullStack Developer estudie en
 [Henry](https://www.soyhenry.com/) 
 donde aprendi => 
 
