@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hola!! 👋
+Soy Julian, Argentina ! 👋
 
-<!--
-**JulianMeraviglia/JulianMeraviglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+FullStack Developer estudie 
+[Henry](https://www.soyhenry.com/) 
+donde aprendi => 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        JavaScript, HTML, CSS, React.JS, Express, Redux y Node.JS!!
+
+Me apasionan los problemas de logica y el mundo de la programacion.
+
+
+Descubrí mas de mi...
+
+- [LinkedIn](https://www.linkedin.com/in/julianmeraviglia/)
+
+julianmeraviglia@gmail.com
+
+---
