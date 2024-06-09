@@ -2,9 +2,8 @@
 I'm Julian, from Argentina! 👋
 
 
-FullStack Development by
-[Henry](https://www.soyhenry.com/) 
-where i learned => 
+Development
+
 
         JavaScript, HTML, CSS, React.JS, Express, Redux and Node.JS
 
@@ -25,9 +24,7 @@ Know more about me at ...
 Soy Julian, Argentina ! 👋
 
 
-FullStack Developer estudie en
-[Henry](https://www.soyhenry.com/) 
-donde aprendi => 
+FullStack
 
         JavaScript, HTML, CSS, React.JS, Express, Redux y Node.JS!!
 
