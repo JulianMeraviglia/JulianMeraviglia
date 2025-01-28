@@ -10,9 +10,7 @@ Development
 I am passionate about computers and programming.
 
 
-Know more about me at ... 
 
-- [LinkedIn](https://www.linkedin.com/in/julianmeraviglia/)
 ## Contact Me
 
 📫 julianmeraviglia@gmail.com
@@ -31,9 +29,7 @@ FullStack
 Me apasionan los problemas de logica y el mundo de la programacion.
 
 
-Descubrí mas de mi...
 
-- [LinkedIn](https://www.linkedin.com/in/julianmeraviglia/)
 
 ## Esribime a
 
